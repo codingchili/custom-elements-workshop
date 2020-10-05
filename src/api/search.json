@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Ribbit",
+    "type": "frog",
+    "description": "This is the frog description."
+  },
+  {
+    "title": "Meow",
+    "type": "cat",
+    "description": "This is the cat description."
+  },
+  {
+    "title": "Moo",
+    "type": "cow",
+    "description": "This is the cow description."
+  },
+  {
+    "title": "Quack",
+    "type": "duck",
+    "description": "this is the duck description."
+  }
+]

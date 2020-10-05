@@ -1,0 +1,14 @@
+{
+  "name": "custom-elements-workshop",
+  "version": "1.0.0",
+  "description": "Workshop for introduction to custom elements and modern web development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lit-html": "^1.3.0"
+  }
+}
